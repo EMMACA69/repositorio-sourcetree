@@ -2,7 +2,7 @@ Había una vez una dulce niña que quería mucho a su madre y a su abuela. Les ayud
 
 Un día la abuela de Caperucita, que reside en el bosque, enfermó y la madre de Caperucita le pidió que le llevara una cesta con una torta y un tarro de mantequilla. Caperucita aceptó encantada.
 
-- Ten mucho cuidado Caperucita, y no te entretengas en el bosque.
+- Ten mucho cuidado Caperucita, y no te detengass en el bosque.
 - ¡Sí mamá!
 
 La niña caminaba tranquilamente por el bosque no la vio le huyo
@@ -11,4 +11,4 @@ no se que mas hacer ya eto eta fastidiando
 
 como ves este cambio, ojala aparezca
 
-
+nuevamente voya agregar un mensaje a ver si aparece la rama
